@@ -1,0 +1,1 @@
+Epoch,gpu_mem,GIoU,obj,cls,total,targets,img_size,P, R, mAP, F1, test_losses=(GIoU, obj, cls)
